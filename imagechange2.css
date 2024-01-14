@@ -2,3 +2,7 @@
   color:#ff7f50;
   text-align: center;
 }
+body{
+  background-image:url('./image/hitsujibungaku_logo.jpg');
+  background-size: cover;
+}
