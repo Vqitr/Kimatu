@@ -9,6 +9,6 @@
   text-align:center;
 }
 body{
-  background-image: url("./image/hitsujibungaku_logo.jpg");
+  background-image:url('./image/hitsujibungaku_logo.jpg');
   background-size: cover;
 }
