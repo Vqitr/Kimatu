@@ -8,3 +8,7 @@
 .gazo1{
   text-align:center;
 }
+body{
+  background-image: url("hitsujibungaku_logo.jpg");
+  background-size: cover;
+}
